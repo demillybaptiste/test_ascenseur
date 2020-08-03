@@ -1,0 +1,33 @@
+p{
+	color:blue;
+}
+
+button{
+	margin:10px;
+	width: 40px;
+	height: 40px;
+}
+#interface button{
+	width:100px;
+}
+#button{
+	width: 60px;
+}
+
+#carre{
+	height: 44px;
+    width: 44px;
+    margin:10px;
+    margin-top: 250px;
+}
+#img{
+	height: 40px;
+    width: 40px;
+    padding: 2px;
+
+ 
+}
+#content{
+	display: flex;
+	flex-direction: row
+}
